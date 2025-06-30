@@ -13,13 +13,13 @@ The plots visualize framing effect sizes and risk preferences across different G
 Click on any link below to view the corresponding interactive Plotly visualization:
 
 - **Standard Condition:**  
-  [View Standard Plot](https://yourusername.github.io/AI-Framing-2025/plotly-visualizations/standard_plot.html)
+  [View Standard Plot](https://ArtinYousefi.github.io/AI-Framing-2025/plotly-visualizations/standard_plot.html)
 
 - **Zero-Truncated Condition:**  
-  [View Zero-Truncated Plot](https://yourusername.github.io/AI-Framing-2025/plotly-visualizations/zero_trunc_plot.html)
+  [View Zero-Truncated Plot](https://ArtinYousefi.github.io/AI-Framing-2025/plotly-visualizations/zero_trunc_plot.html)
 
 - **Non-Zero Truncated Condition:**  
-  [View Non-Zero Truncated Plot](https://yourusername.github.io/AI-Framing-2025/plotly-visualizations/non_zero_trunc_plot.html)
+  [View Non-Zero Truncated Plot](https://ArtinYousefi.github.io/AI-Framing-2025/plotly-visualizations/non_zero_trunc_plot.html)
 
 ---
 
