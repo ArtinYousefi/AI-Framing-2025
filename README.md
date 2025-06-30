@@ -33,8 +33,8 @@ Click on any link below to view the corresponding interactive Plotly visualizati
 
 ## 🔗 GitHub Pages Link
 
-Your GitHub Pages site is live at:  
-`https://yourusername.github.io/plotly-visualizations/`
+The GitHub Pages site for the project is live at:  
+`[https://yourusername.github.io/plotly-visualizations/](https://artinyousefi.github.io/AI-Framing-2025/)`
 
 ---
 
