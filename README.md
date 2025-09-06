@@ -1,8 +1,8 @@
 # Plotly Visualizations for AI Framing Study
 
 This repository contains interactive Plotly HTML visualizations used in the study:  
-**"AI Maturation Mirrors Human Developmental Risk-Taking: Framing and Truncation Biases in GPT Models"**  
-by *Artin Yousefi, Valerie F. Reyna, David A. Broniatowski*.
+**"Do Language Models Mature? Tracking Language Model Developmental Evolution Through Framing Tasks"**  
+by *Artin Yousefi, David A. Broniatowski, Valerie F. Reyna*.
 
 The plots visualize framing effect sizes and risk preferences across different GPT model families and truncation conditions.
 
